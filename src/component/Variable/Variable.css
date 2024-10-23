@@ -1,0 +1,17 @@
+.Variable-container {
+    border: 1px solid;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    background-color: aqua;
+    margin:0.5rem;
+}
+
+.Variable-title {
+    color: teal;
+}
+
+.Variable-value {
+    font-size: x-large;
+    font-weight: bold;
+    margin: 0 0.5rem;
+}

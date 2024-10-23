@@ -1,0 +1,23 @@
+.temperatures-container {
+    border: 1px solid;
+    border-radius: 0.5rem;
+    padding: 0.5rem 0.5rem 0 0.5rem;
+    margin:0.5rem;
+    background-color: white;
+}
+
+.temperatures-title {
+    color: teal;
+}
+
+.temperatures-variables {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+}
+
+.temperatures-variablesnumbers {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: space-around;
+}
